@@ -1,0 +1,41 @@
+#myWorks {
+    margin: 20px;
+}
+
+.work-card > img {
+    width: 15rem;
+    height: 15rem;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.work-card {
+    width: 60rem;
+    height: 20rem;
+    margin: 20px;
+    position: relative;
+    display: flex;
+    background-color: black;
+    border-radius: 10px;
+}
+
+
+.work-container {
+    display: flex;
+    justify-content: center;
+}
+
+.details-section {
+    margin: 10px;
+    color: white;
+}
+
+.span-details {
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.redirect-link {
+    text-decoration: none;
+}

@@ -1,0 +1,83 @@
+.abt-me-image > img {
+    width: 20rem;
+    display: block;
+    margin: auto;
+}
+
+#about {
+    margin: 20px;
+}
+
+.abt-me-image {
+    width: 40%;
+}
+
+.about-me-details {
+    display: flex;
+    justify-content: center;
+}
+
+.bold-discription {
+    font-weight: bold;
+}
+
+.navBar-skills {
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+}
+
+.list-skills {
+    margin: 20px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.style-list-name {
+    text-decoration: underline;
+    color: rgb(244, 85, 0);
+}
+
+.abt-me {
+    margin-left: 10px;
+}
+
+.myProgress {
+    width: 30%;
+    background-color: #ddd;
+    border-radius: 10px;
+    margin: 1px;
+  }
+  
+.myBar {
+    height: 10px;
+    background-color: #04AA6D;
+    text-align: center;
+    border-radius: 10px 0 0 10px;
+  }
+
+.skill-title {
+    margin: 5px 0;
+}
+
+.skills-section {
+    margin-left: 20px;
+}
+
+.exp-title {
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.school-collage {
+    margin-left: 25px;
+}
+
+#exp-div {
+    display: none;
+}
+
+#education-div {
+    display: none;
+}

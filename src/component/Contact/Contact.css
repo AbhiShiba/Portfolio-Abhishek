@@ -1,0 +1,32 @@
+#contact {
+    margin: 20px;
+}
+
+.info {
+    display: flex;
+    margin-left: 20px;
+}
+
+.left-contact {
+    width: 50%;
+}
+
+.right-contact {
+    width: 50%;
+}
+
+.info-details {
+    margin-left: 20px ;
+}
+
+.contact-main {
+    display: flex;
+}
+
+.linkedIn > a {
+    color: black;
+}
+
+.gitHub > a {
+    color: black;
+}
